@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="fe87e2ee-45ea-4a42-9ee9-7d8d303c10e8" solutionId="fe87e2ee-45ea-4a42-9ee9-7d8d303c10e8" resetWebServer="false" name="SPWebCache" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="f29994ad-edba-4540-a744-511da42d4737" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="88797aee-3764-4b63-be9d-7da5b959fb7b" />
+  </projectItems>
+</package>

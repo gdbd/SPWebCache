@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/SPWebCache16/v15
+/BUILD
+/SPWebCache/obj/Debug
+*.vspscc
+/SPWebCache.LoadTest/obj/Debug
+/SPWebCache.Tests/obj/Debug
+*.vssscc
+/packages/NUnit.2.6.1
